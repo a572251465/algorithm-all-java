@@ -1,4 +1,4 @@
-package com.lihh.tree.TreeSimple114;
+package com.lihh.tree.TreeSimple144;
 
 import com.lihh.common.structure.TreeNode;
 
